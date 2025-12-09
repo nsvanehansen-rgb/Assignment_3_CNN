@@ -3,7 +3,7 @@
 This repository contains a Deep Learning model (DenseNet121) for classifying images from the **PatchCamelyon (PCAM)** dataset.
 
 ## Important Note on Data
-The PCAM dataset is approximately **20GB** in size. Due to GitHub's file size limits, the data is **not included** directly in this repository.
+The PCAM dataset is approximately 700MB in size. Due to GitHub's file size limits, the data is **not included** directly in this repository.
 
 Instead, we provide a helper notebook (`download_data.ipynb`) that automatically downloads and sets up the data for you.
 
