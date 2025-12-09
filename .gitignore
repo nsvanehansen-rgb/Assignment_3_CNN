@@ -1,0 +1,11 @@
+# Ignore the data folder where the 20GB dataset lives
+data/
+
+# Ignore zipped data
+*.zip
+*.gz
+
+# Ignore python cache & notebook history
+__pycache__/
+.ipynb_checkpoints/
+
